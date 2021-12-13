@@ -17,12 +17,12 @@ Observations were drawn from numerous weather stations. The daily observations a
 
  ### Tools
 
-•	Python
-•	Numpy
-•	Pandas
-•	Sklearn
-•	Seaborn
-•	Matplotlib
+-	Python
+-	Numpy
+-	Pandas
+-	Sklearn
+-	Seaborn
+-	Matplotlib
 
 
 
